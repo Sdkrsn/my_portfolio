@@ -20,27 +20,27 @@ export const About = () => {
               <h3>Frontend Developer</h3>
               <p>
                 I'm a frontend developer with experience in building responsive
-                and optimized sites
+                and optimized sites and apps.
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/serverIcon.png")} alt="Server icon" />
             <div className={styles.aboutItemText}>
-              <h3>Backend Developer</h3>
+              <h3>AI/ML</h3>
               <p>
-                I have experience developing fast and optimised back-end systems
-                and APIs
+                I have experience and I'm interested in building AI and ML projects using various models,
+                I try to learn more concepts in my free time!
               </p>
             </div>
           </li>
           <li className={styles.aboutItem}>
             <img src={getImageUrl("about/cursorIcon.png")} alt="UI icon" />
             <div className={styles.aboutItemText}>
-              <h3>UI Designer</h3>
+              <h3>Cyber Security</h3>
               <p>
-                I have designed multiple landing pages and have created design
-                systems as well
+                I use Kali Linux and use existing tools to do ethical hacking and I'm 
+                interested in learning various other methods.
               </p>
             </div>
           </li>
