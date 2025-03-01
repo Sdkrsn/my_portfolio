@@ -7,10 +7,10 @@ export const Hero = () => {
   return (
     <section className={styles.container}>
       <div className={styles.content}>
-        <h1 className={styles.title}>Hi, I'm Ada</h1>
-        <p className={styles.description}>
-          I'm a full-stack developer with 5 years of experience using React and
-          NodeJS. Reach out if you'd like to learn more!
+        <h1 className={styles.title}>Hi, I'm Siddharth Radhakrishnan</h1>
+        <p className={styles.description}>I am a third-year B.Tech Computer Science and Engineering (CSE) with IoT student, passionate about Machine Learning (ML) and its applications. 
+        Additionally, I have gained experience in ethical hacking, as well as web and app development, and I am eager to explore innovative projects in these domains.
+
         </p>
         <a href="mailto:myemail@email.com" className={styles.contactBtn}>
           Contact Me
