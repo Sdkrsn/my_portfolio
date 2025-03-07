@@ -1,19 +1,19 @@
 [
   {
-    "role": "App Developer",
-    "organisation": "Codsoft",
-    "startDate": "March, 2024",
-    "endDate": "April 2024",
-    "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
-    "imageSrc": "history/google.png"
+    "role": "Co-Director of Tech",
+    "organisation": "Iot Alliance Club SRM",
+    "startDate": "October, 2024",
+    "endDate": "Present",
+    "experiences": ["Coordinated projects across departments and learned website and app development"],
+    "imageSrc": "history/IOTA.jpeg"
   },
   {
-    "role": "UI Designer",
-    "organisation": "Mirosoft",
-    "startDate": "Aug, 2021",
-    "endDate": "Aug, 2022",
-    "experiences": ["Worked on Windows 11", "Designed the control panel"],
-    "imageSrc": "history/microsoft.png"
+    "role": "Volunteer",
+    "organisation": "Siragugal Charitable Trust",
+    "startDate": "June, 2024",
+    "endDate": "July, 2024",
+    "experiences": ["Assisted in daily operations, managed fundraising efforts, and reported on volunteer activities."],
+    "imageSrc": "history/sct.jpeg"
   },
   {
     "role": "App Developer",
