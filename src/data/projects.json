@@ -16,11 +16,11 @@
     "source": "https://github.com/Sdkrsn/IoTA-Forum-Prototype"
   },
   {
-    "title": "Project C",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "FaceRecogRealTimeDB",
+    "imageSrc": "projects/db.png",
+    "description": "FaceRecogRealTimeDB is a portal that uses face recognition to mark and update student attendance in real-time.",
+    "skills": ["Python", "Firebase", "Computer Vision"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sdkrsn/FaceRecogRealTimeDB"
   }
 ]
