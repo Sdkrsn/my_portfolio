@@ -34,5 +34,13 @@
   {
     "title": "MySQL",
     "imageSrc": "skills/mysql.png"
+  },
+  {
+    "title": "Kali Linux",
+    "imageSrc": "skills/kali-linux.png"
+  },
+  {
+    "title": "GIT",
+    "imageSrc": "skills/Git.png"
   }
 ]
