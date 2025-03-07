@@ -1,9 +1,9 @@
 [
   {
-    "role": "Software Engineer",
-    "organisation": "Google",
-    "startDate": "Sept, 2022",
-    "endDate": "Present",
+    "role": "App Developer",
+    "organisation": "Codsoft",
+    "startDate": "March, 2024",
+    "endDate": "April 2024",
     "experiences": ["Worked on Google Maps", "Reduced load times by 50%"],
     "imageSrc": "history/google.png"
   },
@@ -16,14 +16,13 @@
     "imageSrc": "history/microsoft.png"
   },
   {
-    "role": "SWE Intern",
-    "organisation": "Netflix",
-    "startDate": "Apr, 2020",
-    "endDate": "Jun, 2020",
+    "role": "App Developer",
+    "organisation": "Codsoft",
+    "startDate": "March, 2024",
+    "endDate": "April, 2024",
     "experiences": [
-      "Worked on component library",
-      "Helped create UI components"
+      "Designed, developed, and successfully deployed two applications, ensuring functionality, performance, and user experience."
     ],
-    "imageSrc": "history/netflix.png"
+    "imageSrc": "history/codsoft.jpeg"
   }
 ]
