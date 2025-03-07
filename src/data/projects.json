@@ -1,11 +1,11 @@
 [
   {
-    "title": "Project A",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node"],
+    "title": "Smart Attendance System",
+    "imageSrc": "projects/SAS.png",
+    "description": "This project uses face recognition to mark and update student attendance in the database.",
+    "skills": ["Python", "Firebase", "React"],
     "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "source": "https://github.com/Sdkrsn/attendence-management-system"
   },
   {
     "title": "Project B",
