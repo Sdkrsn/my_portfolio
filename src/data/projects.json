@@ -8,12 +8,12 @@
     "source": "https://github.com/Sdkrsn/attendence-management-system"
   },
   {
-    "title": "Project B",
-    "imageSrc": "projects/project.png",
-    "description": "This is a project made to learn the latest languages by building an app.",
-    "skills": ["React", "Express", "Node", "Sass"],
-    "demo": "https://www.example.com",
-    "source": "https://www.github.com"
+    "title": "IOTA Forum Page",
+    "imageSrc": "projects/IOTA.png",
+    "description": "The Club IoT Alliance Forum is a hub for IoT enthusiasts to discuss, collaborate, and share knowledge.",
+    "skills": ["React", "Supabase", "Tailwind", "CSS", "JavaScript"],
+    "demo": "https://iota-forum-test.vercel.app/",
+    "source": "https://github.com/Sdkrsn/IoTA-Forum-Prototype"
   },
   {
     "title": "Project C",
