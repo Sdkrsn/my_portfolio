@@ -29,7 +29,7 @@
     rgba(255, 255, 255, 1) 70%,
     rgba(255, 255, 255, 0) 120%
   );
-  -webkit-text-fill-color: transparent;
+  -webkit-text-fill-color: white; /* Ensures visibility */
   -webkit-background-clip: text;
 }
 
@@ -58,7 +58,7 @@
   animation-iteration-count: infinite;
   animation-timing-function: ease-in-out;
   position: relative;
-  top: -50px; /* Move image up to prevent cut-off */
+  top: -50px; /* Moves image up */
 }
 
 @keyframes floating {
@@ -101,7 +101,7 @@
 
 @media screen and (max-width: 830px) {
   .container {
-    flex-direction: column; /* Stack elements in mobile view */
+    flex-direction: column; /* Stack items vertically */
     align-items: center;
     text-align: center;
   }
@@ -113,6 +113,7 @@
 
   .title {
     font-size: clamp(36px, 8vw, 72px);
+    -webkit-text-fill-color: white; /* Ensure readability */
   }
 
   .description {
@@ -120,14 +121,9 @@
   }
 
   .heroImg {
-    width: 60vw;
-    max-width: 50%;
-    top: -30px; /* Adjust position further */
-  }
-
-  .contactBtn {
-    width: 80%; /* Reduce button size */
-    font-size: 20px;
-    padding: 12px 24px;
+    width: 40vw;
+    max-width: 150px;
+    position: relative;
+    top: -30px; /* Moves image slightly up */
   }
 }
