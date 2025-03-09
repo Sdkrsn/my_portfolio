@@ -12,8 +12,8 @@ export const Hero = () => {
         Additionally, I have gained experience in ethical hacking, as well as web and app development, and I am eager to explore innovative projects in these domains.
 
         </p>
-        <a href="mailto:myemail@email.com" className={styles.contactBtn}>
-          Contact Me
+        <a href="/Sid_resume.pdf" download="Siddharth_Resume" className={styles.contactBtn}>
+          Download Resume
         </a>
       </div>
       <img
