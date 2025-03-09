@@ -119,15 +119,14 @@
   .description {
     font-size: clamp(18px, 4vw, 30px);
   }
-
   .heroImg {
     width: 40vw;
     max-width: 150px;
-    position: relative;
-    top: -50px; /* Adjust to move it above text */
+    position: absolute;
+    top: 10px; /* Adjust this for spacing */
     left: 50%;
-    transform: translateX(-50%); /* Centers image horizontally */
-    z-index: 1;
+    transform: translateX(-50%);
+    z-index: 2;
   }
   
   
