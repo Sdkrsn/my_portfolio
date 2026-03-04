@@ -1,5 +1,32 @@
 [
   {
+    "title": "Neuro-Symbolic Reasoning Framework for LLM in Aeronautical Applications",
+    "imageSrc": "projects/NS.jpeg",
+    "description": "This project focuses on integrating neural networks with symbolic reasoning to enhance the reliability and interpretability of Large Language Models (LLMs) in aeronautical applications. The framework combines the pattern recognition capabilities of LLMs with rule based symbolic reasoning to enable logical validation, explainability, and structured decision making in aerospace-related tasks. By incorporating domain-specific knowledge and reasoning constraints, the system aims to improve accuracy, transparency, and safety in AI assisted aeronautical analysis and decision support.",
+    "skills": ["Python", "ML pipelines", "NeuroSymbolic AI", "LLMs", "Data processing", "Model Evaluation"],
+    "demo": "https://www.example.com",
+    "source": ""
+  },
+
+  {
+    "title": "Scene Generator",
+    "imageSrc": "projects/SG.png",
+    "description": "This project was also a colaboration with CSIR - NAL for jigyasa 2.0 In this project a virtual drone is given which on command will show you the aerial view of CSIR campus and nearby places using features such as tilt, pan, and zoom. You can also change the altitude, longitude and latitude of the drone.",
+    "skills": ["CSS", "Javascript", "React", "Tailwind"],
+    "demo": "https://www.example.com",
+    "source": ""
+  },
+
+  {
+    "title": "RULXAI",
+    "imageSrc": "projects/RULXAI.png",
+    "description": "This project was made in collaboration with CSIR NAL and was published in the Comsoi DRDO-GTRE NCCM 2025 conference. The project focuses on predicting RUL of the aircraft engine while explaining the factors contributing negatively and positively to the RUL prediction.",
+    "skills": ["Python", "AI/ML", "Tkinter", "LIME", "CNN-BiLSTM", "Data Analysis"],
+    "demo": "https://www.example.com",
+    "source": ""
+  },
+
+  {
     "title": "Smart Attendance System",
     "imageSrc": "projects/SAS.png",
     "description": "This project uses face recognition to mark and update student attendance in the database.",

@@ -1,9 +1,26 @@
 [
   {
+    "role": "Intern",
+    "organisation": "Farmwise AI",
+    "startDate": "September, 2025",
+    "endDate": "November, 2025",
+    "experiences": ["Code for content generator module, Used the content to make a platform for government students to study, fixed bugs in the existing code."],
+    "imageSrc": "history/FAI.jpeg"
+  },
+  {
+    "role": "Research Intern",
+    "organisation": "CSIR - NAL",
+    "startDate": "June, 2025",
+    "endDate": "August, 2025",
+    "experiences": ["Created virtual scene generator with camera controls over geotiff terrain datasets, built JetAl web simulator with Al-driven stall/cruise/caution flight mode classifier, Published a paper on RUL of aircraft engines with explainable AI"],
+    "imageSrc": "history/NAL.jpeg"
+  },
+
+  {
     "role": "Co-Director of Tech",
     "organisation": "Iot Alliance Club SRM",
     "startDate": "October, 2024",
-    "endDate": "Present",
+    "endDate": "January, 2025",
     "experiences": ["Coordinated projects across departments and learned website and app development"],
     "imageSrc": "history/IOTA.jpeg"
   },
